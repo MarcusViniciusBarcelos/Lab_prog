@@ -1,0 +1,15 @@
+C:\Users\marcu\Desktop\faculdade\sem 4\Lab_Prog\aula_1\bin\Debug\net7.0\Lab_Prog.exe
+C:\Users\marcu\Desktop\faculdade\sem 4\Lab_Prog\aula_1\bin\Debug\net7.0\Lab_Prog.deps.json
+C:\Users\marcu\Desktop\faculdade\sem 4\Lab_Prog\aula_1\bin\Debug\net7.0\Lab_Prog.runtimeconfig.json
+C:\Users\marcu\Desktop\faculdade\sem 4\Lab_Prog\aula_1\bin\Debug\net7.0\Lab_Prog.dll
+C:\Users\marcu\Desktop\faculdade\sem 4\Lab_Prog\aula_1\bin\Debug\net7.0\Lab_Prog.pdb
+C:\Users\marcu\Desktop\faculdade\sem 4\Lab_Prog\aula_1\obj\Debug\net7.0\Lab_Prog.csproj.AssemblyReference.cache
+C:\Users\marcu\Desktop\faculdade\sem 4\Lab_Prog\aula_1\obj\Debug\net7.0\Lab_Prog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Desktop\faculdade\sem 4\Lab_Prog\aula_1\obj\Debug\net7.0\Lab_Prog.AssemblyInfoInputs.cache
+C:\Users\marcu\Desktop\faculdade\sem 4\Lab_Prog\aula_1\obj\Debug\net7.0\Lab_Prog.AssemblyInfo.cs
+C:\Users\marcu\Desktop\faculdade\sem 4\Lab_Prog\aula_1\obj\Debug\net7.0\Lab_Prog.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Desktop\faculdade\sem 4\Lab_Prog\aula_1\obj\Debug\net7.0\Lab_Prog.dll
+C:\Users\marcu\Desktop\faculdade\sem 4\Lab_Prog\aula_1\obj\Debug\net7.0\refint\Lab_Prog.dll
+C:\Users\marcu\Desktop\faculdade\sem 4\Lab_Prog\aula_1\obj\Debug\net7.0\Lab_Prog.pdb
+C:\Users\marcu\Desktop\faculdade\sem 4\Lab_Prog\aula_1\obj\Debug\net7.0\Lab_Prog.genruntimeconfig.cache
+C:\Users\marcu\Desktop\faculdade\sem 4\Lab_Prog\aula_1\obj\Debug\net7.0\ref\Lab_Prog.dll
