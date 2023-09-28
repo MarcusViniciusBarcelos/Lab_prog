@@ -1,0 +1,14 @@
+C:\Users\marcu\Desktop\faculdade\sem 4\Lab_Prog\AP1\bin\Debug\net7.0\AP1.exe
+C:\Users\marcu\Desktop\faculdade\sem 4\Lab_Prog\AP1\bin\Debug\net7.0\AP1.deps.json
+C:\Users\marcu\Desktop\faculdade\sem 4\Lab_Prog\AP1\bin\Debug\net7.0\AP1.runtimeconfig.json
+C:\Users\marcu\Desktop\faculdade\sem 4\Lab_Prog\AP1\bin\Debug\net7.0\AP1.dll
+C:\Users\marcu\Desktop\faculdade\sem 4\Lab_Prog\AP1\bin\Debug\net7.0\AP1.pdb
+C:\Users\marcu\Desktop\faculdade\sem 4\Lab_Prog\AP1\obj\Debug\net7.0\AP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Desktop\faculdade\sem 4\Lab_Prog\AP1\obj\Debug\net7.0\AP1.AssemblyInfoInputs.cache
+C:\Users\marcu\Desktop\faculdade\sem 4\Lab_Prog\AP1\obj\Debug\net7.0\AP1.AssemblyInfo.cs
+C:\Users\marcu\Desktop\faculdade\sem 4\Lab_Prog\AP1\obj\Debug\net7.0\AP1.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Desktop\faculdade\sem 4\Lab_Prog\AP1\obj\Debug\net7.0\AP1.dll
+C:\Users\marcu\Desktop\faculdade\sem 4\Lab_Prog\AP1\obj\Debug\net7.0\refint\AP1.dll
+C:\Users\marcu\Desktop\faculdade\sem 4\Lab_Prog\AP1\obj\Debug\net7.0\AP1.pdb
+C:\Users\marcu\Desktop\faculdade\sem 4\Lab_Prog\AP1\obj\Debug\net7.0\AP1.genruntimeconfig.cache
+C:\Users\marcu\Desktop\faculdade\sem 4\Lab_Prog\AP1\obj\Debug\net7.0\ref\AP1.dll
