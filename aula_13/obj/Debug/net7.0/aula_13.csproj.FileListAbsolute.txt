@@ -1,0 +1,14 @@
+C:\Users\marcu\Desktop\faculdade\sem 4\Lab_Prog\aula_13\obj\Debug\net7.0\aula_13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Desktop\faculdade\sem 4\Lab_Prog\aula_13\obj\Debug\net7.0\aula_13.AssemblyInfoInputs.cache
+C:\Users\marcu\Desktop\faculdade\sem 4\Lab_Prog\aula_13\obj\Debug\net7.0\aula_13.AssemblyInfo.cs
+C:\Users\marcu\Desktop\faculdade\sem 4\Lab_Prog\aula_13\obj\Debug\net7.0\aula_13.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Desktop\faculdade\sem 4\Lab_Prog\aula_13\bin\Debug\net7.0\aula_13.exe
+C:\Users\marcu\Desktop\faculdade\sem 4\Lab_Prog\aula_13\bin\Debug\net7.0\aula_13.deps.json
+C:\Users\marcu\Desktop\faculdade\sem 4\Lab_Prog\aula_13\bin\Debug\net7.0\aula_13.runtimeconfig.json
+C:\Users\marcu\Desktop\faculdade\sem 4\Lab_Prog\aula_13\bin\Debug\net7.0\aula_13.dll
+C:\Users\marcu\Desktop\faculdade\sem 4\Lab_Prog\aula_13\bin\Debug\net7.0\aula_13.pdb
+C:\Users\marcu\Desktop\faculdade\sem 4\Lab_Prog\aula_13\obj\Debug\net7.0\aula_13.dll
+C:\Users\marcu\Desktop\faculdade\sem 4\Lab_Prog\aula_13\obj\Debug\net7.0\refint\aula_13.dll
+C:\Users\marcu\Desktop\faculdade\sem 4\Lab_Prog\aula_13\obj\Debug\net7.0\aula_13.pdb
+C:\Users\marcu\Desktop\faculdade\sem 4\Lab_Prog\aula_13\obj\Debug\net7.0\aula_13.genruntimeconfig.cache
+C:\Users\marcu\Desktop\faculdade\sem 4\Lab_Prog\aula_13\obj\Debug\net7.0\ref\aula_13.dll
